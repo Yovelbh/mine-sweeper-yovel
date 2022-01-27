@@ -1,0 +1,30 @@
+
+body {
+    text-align: center;
+    color: rgb(185, 17, 17);
+    background-color: rgba(0, 0, 0, 0.9);
+  }
+  table { 
+     margin: auto;
+    max-width: 500px;
+    table-layout: fixed;
+    height: 400px;
+    width: 50%;
+    text-align: center;
+  }
+  
+  .cell {
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    font-size: 1.5em;
+  }
+  td {
+    background-color: gray;
+    display: "hidden";
+  }
+  .time {
+    font-size:large;
+    color: rgb(251, 255, 0);
+    font-family: cursive;
+}
